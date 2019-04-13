@@ -1,6 +1,4 @@
-[TOC]
-
-# cando: USB-CAN 转换模块
+# 一 cando: USB-CAN 转换模块
 
 ![](/doc/img/cando_2.JPG)
 
@@ -17,7 +15,7 @@
 - 支持二次开发，并提供 Python 库
 - 尺寸 4 x 1.6 cm
 
-# microbus: CAN总线调试软件
+# 二 microbus: CAN总线调试软件
 
 ![](/doc/img/microbus_7.png)
 
@@ -29,7 +27,7 @@
 - 支持 CAN DBC 文件格式解析
 - 软件免安装 
 
-# 使用说明
+# 三 使用说明
 
 ## 1. 设置跳线帽
 
@@ -46,11 +44,11 @@
 
 **Windos**
 
-​	选择 release 中的 [microbus_dist_win32.rar](https://github.com/codenocold/microbus/releases/download/v0.2.1/microbus_dist_win32.zip)下载，下载完成后解压生成 microbus_dist_win32 文件夹，进入文件夹双击 microbus.exe 运行软件。
+​	选择 release 中的 microbus_dist_win32.rar([下载链接](https://github.com/codenocold/microbus/releases/download/v0.2.1/microbus_dist_win32.zip))下载，下载完成后解压生成 microbus_dist_win32 文件夹，进入文件夹双击 microbus.exe 运行软件。
 
 **Ubuntu**
 
-​	选择 release 中的 [microbus_dist_ubuntu16.04.tar](https://github.com/codenocold/microbus/releases/download/v0.2.1/microbus_dist_ubuntu16.04.tar)下载，下载完成后解压生成 microbus_dist_ubuntu16.04 文件夹。
+​	选择 release 中的 microbus_dist_ubuntu16.04.tar([下载链接](https://github.com/codenocold/microbus/releases/download/v0.2.1/microbus_dist_ubuntu16.04.tar))下载，下载完成后解压生成 microbus_dist_ubuntu16.04 文件夹。
 ​	在命令行输入以下命令回车进行libnl库的安装。
 
 ```shell
@@ -88,6 +86,6 @@
 
 ![](/doc/img/microbus_7.png)
 
-# [购买链接](https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.25911debDJCtIS&ft=t&id=592036191992)
+# 四 购买链接[https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.25911debDJCtIS&ft=t&id=592036191992](https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.25911debDJCtIS&ft=t&id=592036191992)
 
-# 邮箱 codenocold@gmail.com
+# 五 邮箱 codenocold@gmail.com

@@ -1,6 +1,6 @@
 # cando: USB-CAN 转换模块
 
-![](C:\Users\su\Desktop\doc\img\cando_2.JPG)
+![](doc\img\cando_2.JPG)
 
 ***cando*** 是一个低成本的USB-CAN转换模块，可以在Windos、Linux系统运行，在Windos系统无需安装驱动，在Linux系统为socketcan接口，可以使用标准的can-utils命令对 ***cando*** 操作。采用USB buck 传输，所以性能要高于串口或者虚拟串口。
 

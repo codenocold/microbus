@@ -86,6 +86,4 @@
 
 ![](/doc/img/microbus_7.png)
 
-# 四 购买链接[https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.25911debDJCtIS&ft=t&id=592036191992](https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.25911debDJCtIS&ft=t&id=592036191992)
-
-# 五 邮箱 codenocold@gmail.com
+# 邮箱 codenocold@gmail.com

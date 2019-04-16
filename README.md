@@ -45,7 +45,7 @@
 **Windos**
 
 ​	选择 release 中的 microbus_dist_win32.rar([下载链接](https://github.com/codenocold/microbus/releases/download/v0.2.1/microbus_dist_win32.zip))下载，下载完成后解压生成 microbus_dist_win32 文件夹，进入文件夹双击 microbus.exe 运行软件。
-*** 注意 *** 由于win10以前的系统默认不支持WCID(Windows Compatible ID), 所以模块接入电脑后显示黄色感叹号，需要使用工具软件"Zadig"自动安装一下驱动支持
+**注意**  由于win10以前的系统默认不支持WCID(**W**indows **C**ompatible **ID**) [相关介绍](https://github.com/pbatard/libwdi/wiki/WCID-Devices), 所以模块接入电脑后显示黄色感叹号，需要使用工具软件"Zadig" ([下载链接](https://github.com/codenocold/microbus/releases/download/v0.2.1/zadig-2.4.exe))自动安装一下驱动支持即可。
 
 **Ubuntu**
 
